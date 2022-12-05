@@ -3,7 +3,7 @@ entries:
   k8sgitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-05T19:48:00.881704197Z"
+    created: "2022-12-05T19:55:27.665377762Z"
     description: A Helm chart for Kubernetes
     digest: 36e9d968d23594841ee644a565b76d3d8d1652ae9674e4d62d8921901fb7caa0
     name: k8sgitrepo
@@ -11,4 +11,15 @@ entries:
     urls:
     - k8sgitrepo-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-05T19:48:00.880860058Z"
+  test-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-05T19:55:27.666103079Z"
+    description: A Helm chart for Kubernetes
+    digest: 0f7f1418596ae23019a497982e9dbc46963b992b90c7a1f54bccaf58fda96987
+    name: test-chart
+    type: application
+    urls:
+    - test-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-05T19:55:27.663965498Z"
